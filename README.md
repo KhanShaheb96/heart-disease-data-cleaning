@@ -1,6 +1,6 @@
 # Heart Disease Data Cleaning and Preprocessing (R Project)
 
-## 📄 Project Overview
+## Project Overview
 
 This project focuses on **data cleaning, preprocessing, and preparation** for a **Heart Disease Prediction dataset** using **R programming**.
 
@@ -8,7 +8,7 @@ The dataset was modified from the original UCI Heart Disease dataset to explore 
 
 ---
 
-## 🛠 Techniques Applied
+## Techniques Applied
 
 - **Handling Missing Values**  
   ➔ Replaced missing numerical values with mean and discrete values with mode.
@@ -45,7 +45,7 @@ The dataset was modified from the original UCI Heart Disease dataset to explore 
 
 ---
 
-## 📚 Dataset Information
+## Dataset Information
 
 - **Dataset:** Heart Disease UCI (Modified)
 - **Total Observations:** 216
